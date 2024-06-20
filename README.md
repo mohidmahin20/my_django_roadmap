@@ -5,12 +5,12 @@
 <p>    templates</p>
 <p>    static_files</p>
 <p>    template inheritance</p>
-<p>2.Forms:  1.html forms</p>
+<p><b>2.Forms:</b>  1.html forms</p>
 <p>          2.Django forms</p>
 <p>     crispy Forms</p>
 <p>     built in forms</p>
 <p>     widgets</p>
-<p>3.Models</p>
+<p><b>3.Models</b></p>
 <p>    sqlite</p>
 <p>    Admin Panel</p>
 <p>    accessing model from adnin panel and front-end</p>
