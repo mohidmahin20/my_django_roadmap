@@ -10,11 +10,11 @@
 <p>     crispy Forms</p>
 <p>     built in forms</p>
 <p>     widgets</p>
-<p>3.Models
-<p>    sqlite
-<p>    Admin Panel
-<p>    accessing model from adnin panel and front-end
-<p>    saving to database
+<p>3.Models</p>
+<p>    sqlite</p>
+<p>    Admin Panel</p>
+<p>    accessing model from adnin panel and front-end</p>
+<p>    saving to database</p>
 <p>4.
 
 
